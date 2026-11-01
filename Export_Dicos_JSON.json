@@ -17082,7 +17082,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Mononucléose": {
+   "EBV présent": {
     "% de présence": 0.3,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -18418,7 +18418,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Anémie par carence martiale": {
+  "Anémie ferriprive": {
    "Ages": [
     50,
     15
@@ -20410,12 +20410,12 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Bloc auriculo-ventriculaire": {
+  "Bloc atrio-ventriculaire (ECG)": {
    "Ages": [
     50,
     15
    ],
-   "Bloc auriculo-ventriculaire": {
+   "Bloc atrio-ventriculaire (ECG)": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -21581,7 +21581,7 @@
    },
    "Définition": "Tumeur maligne de l'ovaire, souvent découverte à un stade avancé (masse, ascite, altération de l'état général).",
    "H-F": 2,
-   "Kyste dermoïde ovarien": {
+   "Tératome ovarien mature (imagerie)": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -22752,7 +22752,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Anémie par carence martiale": {
+   "Anémie ferriprive": {
     "% de présence": 0.67,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -24349,7 +24349,7 @@
     "Durée": "5125.0,4875.0"
    },
    "H-F": 0,
-   "Hématome sous-dural": {
+   "Hématome sous dural": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -24913,7 +24913,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.7,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -29786,7 +29786,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Epilepsie": {
+  "Épilepsie": {
    "Absences épileptiques atypiques": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
@@ -29825,7 +29825,7 @@
    },
    "Document de référence": "https://www.medg.fr/epilepsie/",
    "Définition": "Maladie neurologique chronique caractérisée par la récidive de crises épileptiques spontanées.",
-   "Epilepsie": {
+   "Épilepsie": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -29944,7 +29944,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Incontinence urinaire": {
+   "Fuite urinaire": {
     "% de présence": 0.3,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -30266,7 +30266,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Etat de mal épileptique": {
+  "État de mal épileptique": {
    "Ages": [
     50,
     15
@@ -30299,7 +30299,7 @@
    },
    "Document de référence": "https://www.medg.fr/etat-de-mal-epileptique/",
    "Définition": "Crise épileptique prolongée ou répétée sans reprise de conscience, urgence vitale.",
-   "Etat de mal épileptique": {
+   "État de mal épileptique": {
     "% de présence": 1.0,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -30476,7 +30476,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Fibrillation auriculaire": {
+  "Fibrillation atriale (ECG)": {
    "Accident vasculaire cérébral": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
@@ -30509,7 +30509,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Fibrillation auriculaire": {
+   "Fibrillation atriale (ECG)": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -31535,7 +31535,7 @@
    },
    "CAT": "• Colchicine à vie : prévient accès et amylose. • Diagnostic : génétique MEFV (récessif) ; accès fébriles abdominaux. • Amylose : surveiller protéinurie. • Conseil génétique ; grossesse : poursuivre colchicine."
   },
-  "Flutter auriculaire": {
+  "Flutter atrial (ECG)": {
    "Accident vasculaire cérébral": {
     "% de présence": 0.05,
     "Intensité": "1.5,0.5",
@@ -31562,7 +31562,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Flutter auriculaire": {
+   "Flutter atrial (ECG)": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -32016,7 +32016,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "0",
-   "Traumatisme cranien": {
+   "Traumatisme crânien": {
     "% de présence": 0.8,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -33365,7 +33365,7 @@
    },
    "CAT": "• TSH basse, T4/T3 ; échographie ± scintigraphie. • Antithyroïdiens de synthèse (18-24 mois) puis iode radioactif ou chirurgie. • Bêtabloquant initial ; surveiller NFS. • Signes de Basedow associé (orbitopathie) ; éducation sur la iode 131 (éloignement)."
   },
-  "Goutte": {
+  "Cristaux d'urate de sodium": {
    "Acide urique augmenté": {
     "% de présence": 0.7,
     "Intensité": "1.5,0.5",
@@ -33440,7 +33440,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Goutte": {
+   "Cristaux d'urate de sodium": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -34860,7 +34860,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.3,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -35883,7 +35883,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Incontinence urinaire": {
+   "Fuite urinaire": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -36488,7 +36488,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "0",
-   "Traumatisme cranien": {
+   "Traumatisme crânien": {
     "% de présence": 0.8,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -36526,7 +36526,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Hématome sous-dural": {
+  "Hématome sous dural": {
    "Ages": [
     50,
     15
@@ -36572,7 +36572,7 @@
    "Document de référence": "https://www.medg.fr/hematome-sous-dural/",
    "Définition": "Collection sanguine sous-durale, aiguë ou chronique, avec céphalées, déficits et troubles de conscience.",
    "H-F": 0,
-   "Hématome sous-dural": {
+   "Hématome sous dural": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -36599,7 +36599,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "0",
-   "Traumatisme cranien": {
+   "Traumatisme crânien": {
     "% de présence": 0.6,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -38470,7 +38470,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Fibrillation auriculaire": {
+   "Fibrillation atriale (ECG)": {
     "% de présence": 0.3,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -39559,7 +39559,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Kyste dermoïde ovarien": {
+  "Tératome ovarien mature (imagerie)": {
    "Ages": [
     50,
     15
@@ -39575,7 +39575,7 @@
    },
    "Définition": "Tumeur ovarienne bénigne germinale, avec torsion possible.",
    "H-F": 0,
-   "Kyste dermoïde ovarien": {
+   "Tératome ovarien mature (imagerie)": {
     "% de présence": 0.7,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -40453,7 +40453,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Goutte": {
+   "Cristaux d'urate de sodium": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -40825,7 +40825,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Lithiase rénale": {
+  "Calcul rénal": {
    "Ages": [
     50,
     15
@@ -40883,7 +40883,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -44619,7 +44619,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Anémie par carence martiale": {
+   "Anémie ferriprive": {
     "% de présence": 0.5,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -44835,7 +44835,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Bloc auriculo-ventriculaire": {
+   "Bloc atrio-ventriculaire (ECG)": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -46054,7 +46054,7 @@
    },
    "CAT": "• IRM cérébrale et médullaire ; avis neurochirurgical si symptômes. • Suivi : céphalées, signes bulbaires ; syringomyélie associée. • Chirurgie (décompression) si progression ou invalidité. • Surveillance à vie ; activités à risque de cervical à discuter."
   },
-  "Malnutrition": {
+  "Dénutrition": {
    "Ages": [
     50,
     15
@@ -46129,7 +46129,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Malnutrition": {
+   "Dénutrition": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -46573,7 +46573,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Mononucléose": {
+  "EBV présent": {
    "Adénopathies": {
     "% de présence": 0.8,
     "Intensité": "1.5,0.5",
@@ -49237,7 +49237,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "0",
-   "Ulcère gastrique": {
+   "Ulcération gastrique": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -49989,7 +49989,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Goutte": {
+   "Cristaux d'urate de sodium": {
     "% de présence": 0.02,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -51839,7 +51839,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "VIH": {
+   "VIH+": {
     "% de présence": 0.5,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -52546,7 +52546,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Goutte": {
+   "Cristaux d'urate de sodium": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -52610,7 +52610,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Ulcère gastrique": {
+   "Ulcération gastrique": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -52694,7 +52694,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -53309,7 +53309,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Mononucléose": {
+   "EBV présent": {
     "% de présence": 0.5,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -53980,14 +53980,14 @@
    },
    "Document de référence": "https://www.medg.fr/pyelonephrite-pna-hors-grossesse/",
    "Dysurie": {
-    "% de présence": 1.5,
+    "% de présence": 1.0,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
    "Définition": "Infection des voies urinaires hautes et du pafenchyme rénal",
    "ECBU anormal": {
-    "% de présence": 1.5,
+    "% de présence": 1.0,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
@@ -54014,7 +54014,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Pollakiurie": {
-    "% de présence": 1.5,
+    "% de présence": 1.0,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
@@ -55534,7 +55534,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Fibrillation auriculaire": {
+   "Fibrillation atriale (ECG)": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -55651,7 +55651,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Définition": "Rétrécissement de la surface d'éjection au niveau de la valve aortique en raison de calcifications",
-   "Fibrillation auriculaire": {
+   "Fibrillation atriale (ECG)": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -55793,7 +55793,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Kyste dermoïde ovarien": {
+   "Tératome ovarien mature (imagerie)": {
     "% de présence": 0.0,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -55868,7 +55868,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "VIH": {
+   "VIH+": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -59237,7 +59237,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Syndrome de Löffler": {
+   "Syndrome de Loffler": {
     "% de présence": 0.8,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -60359,7 +60359,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Malnutrition": {
+   "Dénutrition": {
     "% de présence": 0.6,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -60901,7 +60901,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "SIADH",
-   "Traumatisme cranien": {
+   "Traumatisme crânien": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -61801,7 +61801,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Goutte": {
+   "Cristaux d'urate de sodium": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -62515,7 +62515,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Goutte": {
+   "Cristaux d'urate de sodium": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -62714,7 +62714,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "VIH": {
+   "VIH+": {
     "% de présence": 0.03,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -63449,7 +63449,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Kyste dermoïde ovarien": {
+   "Tératome ovarien mature (imagerie)": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -63862,7 +63862,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "VIH": {
+   "VIH+": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -64183,7 +64183,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Traumatisme cranien": {
+  "Traumatisme crânien": {
    "Ages": [
     50,
     15
@@ -64259,7 +64259,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Hématome sous-dural": {
+   "Hématome sous dural": {
     "% de présence": 0.05,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -64316,7 +64316,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Traumatisme cranien": {
+   "Traumatisme crânien": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -64975,7 +64975,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Epilepsie": {
+   "Épilepsie": {
     "% de présence": 0.02,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -65069,7 +65069,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Ulcère gastrique": {
+   "Ulcération gastrique": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -65116,7 +65116,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Définition": "Trouble du neurodéveloppement avec déficits de communication et intérêts restreints, dès l'enfance.",
-   "Epilepsie": {
+   "Épilepsie": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -65539,7 +65539,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Définition": "Ensemble des troubles développementaux (TDAH, TSA, dyspraxie, troubles des apprentissages).",
-   "Epilepsie": {
+   "Épilepsie": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -65881,7 +65881,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Fibrillation auriculaire": {
+   "Fibrillation atriale (ECG)": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -65900,7 +65900,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Incontinence urinaire": {
+   "Fuite urinaire": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -66209,7 +66209,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "VIH": {
+   "VIH+": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -66469,7 +66469,7 @@
    "CAT": "• Urgence ophtalmo : prélèvements, antibiothérapie intensive (fortes doses). • Étiologie : abrasion, lentille, herpétique (aciclovir si). • Cicatrisation : pansement, lubrifiants ; éviter corticoïdes sans avis. • Complication : perforation (chirurgie), cécité ; suivi rapproché.",
    "Document de référence": "https://www.medg.fr/ulcere-de-cornee/"
   },
-  "Ulcère gastrique": {
+  "Ulcération gastrique": {
    "Ages": [
     50,
     15
@@ -67148,13 +67148,13 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Varicelle": {
+   "VZV présent": {
     "% de présence": 0.05,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "VIH": {
+   "VIH+": {
     "% de présence": 0.02,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -67333,7 +67333,7 @@
    },
    "CAT": "• Homme >50 ans : syndrome inflammatoire + cytopénies + chondrite ; génétique (UBA1). • Avis hématologue/immunologue ; corticoïdes ± inhibiteurs JAK/azacitidine selon. • Dépister : embolie pulmonaire, manifestations systémiques. • Suivi spécialisé ; pronostic réservé ; essais."
   },
-  "Varicelle": {
+  "VZV présent": {
    "Adénopathies": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
@@ -67442,7 +67442,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "0",
-   "Varicelle": {
+   "VZV présent": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -67454,7 +67454,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Zona": {
+   "VZV présent": {
     "% de présence": 0.05,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -67780,7 +67780,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Zona": {
+  "VZV présent": {
    "Adénopathies": {
     "% de présence": 0.3,
     "Intensité": "1.5,0.5",
@@ -67913,7 +67913,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Varicelle": {
+   "VZV présent": {
     "% de présence": 0.6,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -67931,7 +67931,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Zona": {
+   "VZV présent": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -68538,7 +68538,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Fibrillation auriculaire": {
+   "Fibrillation atriale (ECG)": {
     "% de présence": 0.4,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -71367,7 +71367,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Incontinence urinaire": {
+   "Fuite urinaire": {
     "% de présence": 0.5,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -73197,7 +73197,7 @@
    "Nb femme": 1,
    "Synonymes": "Syndrome de cystinurie-lysinurie",
    "CAT": "• Lithiases récidivantes (cystine) ; hyperhydratation ++ (>3 L/j). • Alcalinisation urinaire (bicarbonate) ; régime méthionine limité. • Traitement des lithiases (urologie) selon taille. • Suivi familial (récessif) ; fonction rénale.",
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -77397,7 +77397,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Ulcère gastrique": {
+   "Ulcération gastrique": {
     "% de présence": 0.3,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -77761,7 +77761,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -80013,7 +80013,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.4,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -93959,7 +93959,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.5,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -97355,7 +97355,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Définition": "Syndrome génétique de surcroissance segmentaire lié à une variante somatique de PIK3CA.",
-   "Epilepsie": {
+   "Épilepsie": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -99594,7 +99594,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "VIH": {
+   "VIH+": {
     "% de présence": 0.1,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -99687,7 +99687,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Ulcère gastrique": {
+   "Ulcération gastrique": {
     "% de présence": 0.5,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -100152,7 +100152,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "VIH": {
+  "VIH+": {
    "Adénopathies": {
     "% de présence": 0.4,
     "Intensité": "1.5,0.5",
@@ -100251,7 +100251,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Kyste dermoïde ovarien": {
+   "Tératome ovarien mature (imagerie)": {
     "% de présence": 0.0,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -100344,7 +100344,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "VIH": {
+   "VIH+": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -101298,7 +101298,7 @@
    },
    "CAT": "• AQT rare ; substitut (facteur VII recombinant) si saignement. • Antifibrinolytiques pour gestes mineurs. • Carte de soins ; centre hémophile. • Conseil génétique (récessif) ; chirurgie à couvrir."
   },
-  "effet nocebo": {
+  "Effet nocebo": {
    "Ages": [
     50,
     15
@@ -101347,7 +101347,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Définition": "Effet indésirable ressenti lié à l'attente négative d'un traitement, sans lien pharmacologique direct.",
-   "effet nocebo": {
+   "Effet nocebo": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -102319,7 +102319,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "0",
-   "Zona": {
+   "VZV présent": {
     "% de présence": 0.02,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -102698,7 +102698,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Définition": "Syndrome de mégalencéphalie-capillary malformation-polymicrogyrie, lié à PIK3CA.",
-   "Epilepsie": {
+   "Épilepsie": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -103444,7 +103444,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "tendinite": {
+  "Tendinite": {
    "Ages": [
     50,
     15
@@ -103510,7 +103510,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "0",
-   "tendinite": {
+   "Tendinite": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -103596,7 +103596,7 @@
     "Durée": "5125.0,4875.0"
    },
    "Synonymes": "0",
-   "tendinite": {
+   "Tendinite": {
     "% de présence": 0.8,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -104143,7 +104143,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Incontinence urinaire": {
+  "Fuite urinaire": {
    "Ages": [
     60,
     20
@@ -104159,7 +104159,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Incontinence urinaire": {
+   "Fuite urinaire": {
     "% de présence": 1.0,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -105156,7 +105156,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Ulcère gastrique": {
+   "Ulcération gastrique": {
     "% de présence": 0.3,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -105419,7 +105419,7 @@
    },
    "Définition": "Compression des racines terminales de la moelle (queue de cheval) par une hernie discale lombaire ou une tumeur : troubles sphinctériens, anesthésie périnéale, sciatalgie bilatérale. Urgence chirurgicale.",
    "H-F": 0,
-   "Incontinence urinaire": {
+   "Fuite urinaire": {
     "% de présence": 0.6,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -105768,7 +105768,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Ulcère gastrique": {
+   "Ulcération gastrique": {
     "% de présence": 0.6,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -107870,7 +107870,7 @@
    "Nb femme": 1,
    "Synonymes": "Néphrocalcinose médullaire",
    "CAT": "• Plaques calciques (hydroxyapatite) sublinguales ; avis urologique. • Éliminer hyperparathyroïdie (calcémie) ; lithiases associées. • Hydratation ++ ; traitement des lithiases selon taille. • Étiologie métabolique à explorer ; suivi.",
-   "Lithiase rénale": {
+   "Calcul rénal": {
     "% de présence": 0.7,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -108878,7 +108878,7 @@
    "Nb": 2,
    "Nb femme": 1,
    "Synonymes": "0",
-   "Ulcère gastrique": {
+   "Ulcération gastrique": {
     "% de présence": 0.2,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -109162,7 +109162,7 @@
     "Durée": "5125.0,4875.0"
    }
   },
-  "Syndrome de Löffler": {
+  "Syndrome de Loffler": {
    "Ages": [
     50,
     15
@@ -109271,7 +109271,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Syndrome de Löffler": {
+   "Syndrome de Loffler": {
     "% de présence": 0.9,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -112984,7 +112984,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Fibrillation auriculaire": {
+   "Fibrillation atriale (ECG)": {
     "% de présence": 0.5,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -113281,7 +113281,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Fibrillation auriculaire": {
+   "Fibrillation atriale (ECG)": {
     "% de présence": 0.4,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
@@ -113992,7 +113992,7 @@
     "Caractéristiques spécifiques": "0",
     "Durée": "5125.0,4875.0"
    },
-   "Epilepsie": {
+   "Épilepsie": {
     "% de présence": 0.8,
     "Intensité": "1.5,0.5",
     "Caractéristiques spécifiques": "0",
