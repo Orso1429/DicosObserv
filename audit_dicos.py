@@ -123,6 +123,16 @@ def main(path):
         for n, v in list(dups.items())[:20]:
             print(f"      {v}")
 
+    print()
+    print("== 5) CAT commençant par un saut de ligne (ligne vide en tête dans TextBoxCAT) :")
+    n = 0
+    for mk, mv in maladies.items():
+        cat = mv.get("CAT") if isinstance(mv, dict) else None
+        if isinstance(cat, str) and cat.startswith("\n"):
+            print(f"    {mk!r}")
+            n += 1
+    print(f"   -> {n} CAT à corriger (les puces gardent leur \\n, seul le \\n initial est en trop)")
+
 
 if __name__ == "__main__":
     main(sys.argv[1] if len(sys.argv) > 1 else "Export_Dicos_JSON.json")
